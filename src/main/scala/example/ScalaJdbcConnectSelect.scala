@@ -7,7 +7,7 @@ object ScalaJdbcConnectSelect {
   val driver = "com.mysql.jdbc.Driver"
   val url = "jdbc:mysql://localhost:3306/menagerie?useSSL=false"
   val username = "root"
-  val password = "4pmat17pl"
+  val password = "passsword123"
 
   // there's probably a better way to do this
   var connection:Connection = null
