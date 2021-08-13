@@ -1,0 +1,19 @@
+<BookStore>               
+    <book>
+        <title>The paradox of Becoming</title>
+        <author>Thanissaro Bhikku</author>
+        <ISBN>‎B003YMI512</ISBN>
+        <price>64.0</price>
+    </book>
+<book>
+      <title>Kindfulness</title>
+      <author>Ajahn Brahm</author>
+      <ISBN>16900242312</ISBN>
+      <price>7.99</price>
+    </book><book>
+      <title>Tao Te Ching</title>
+      <author>Lao Tzu</author>
+      <ISBN>1690029994</ISBN>
+      <price>7.99</price>
+    </book>
+    </BookStore>
